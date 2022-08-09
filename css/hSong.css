@@ -1,0 +1,77 @@
+/* 
+	CSS/iSong.css == CadetBlue 
+
+	7/30/22 - add new divs for backgrounds (bg_*) and footer
+	8/01/22 - sync a copy to root/iSong.css, maybe to hSong later
+		     symlink not possible, need to get rid og root/iSong anyway
+
+*/
+
+<style type="text/css">
+
+    h2 { page-break-before: always; }
+    p {font-family:arial;font-size:24px;}
+    .Title {text-align:center;font-style:bold;font-family:arial;}
+    .showChordsTable {font-family:arial;font-size:24px;}
+    .chordsRow {text-align:center;font-family:veranna;font-size:16px;}
+    .ChorusI {font-family:veranna;font-style:italic}
+
+    .instr-lick { font-size: .90em;}
+    .lyrics-body, content_h dn {
+       position: relative;
+        padding: 5px;
+        height: auto;
+        width: 75%;
+	font-size: 1.35em;
+        margin: 5px auto;
+        align: left;
+        text-align: left;
+    }
+
+
+    /*  this should wrap eveything on every-page */
+    .hsong_top_div {
+        background-image: url("/images/clefs_Current.png"); 
+	background-size: auto; 
+	background-repeat: no-repeat;
+	border: 2px solid black;
+	padding: 25px;
+    }
+
+/*  BACKGROUNDS for Lists, SONG, Tunes */
+/*  Need to get decent dark vs light themes - low light vs bright stage */
+    .bg_outer_div {
+        background-color: wheat; 
+	border: 2px solid black;
+	padding: 5px;
+    }
+    .bg_outer_div_List {
+        background-color: tan; 
+	max-width: 80%;
+	margin: auto;
+	border: 2px solid black;
+	padding: 5px;
+    }
+    .bg_outer_div_Song {
+        background-color: tan; 
+	border: 2px solid black;
+	padding: 5px;
+    }
+    .bg_outer_div_Tune {
+        background-color: lightgrey; 
+	border: 2px solid black;
+	padding: 5px;
+    }
+
+    /* footer */
+    .hs_footer {
+	font-family:arial;font-size:8px;
+        background-color: grey;
+	max-width: 80%;
+        border: 2px solid black;
+        padding: 5px;
+
+    }
+
+</style>
+
