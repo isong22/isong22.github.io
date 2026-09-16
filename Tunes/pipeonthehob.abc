@@ -1,0 +1,120 @@
+X: 1
+T: Pipe On The Hob, The
+Z: Jeremy
+S: https://thesession.org/tunes/81#setting81
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+B|:c2c edc|edc BAG|ABA g3|eaa ged|
+c3 edc|edc deg|age edB|ABA A3:|
+g2g gea|age dBA|ABA g2e|aba gef|
+g3 gea|age deg|age dBe|ABA A3:|
+c2c d2d|edc AGE|c3 d2d|edc A2B|
+cBc dcd|ede gab|age dBe|ABA A3:|
+
+X: 2
+T: Pipe On The Hob, The
+Z: Manu Novo
+S: https://thesession.org/tunes/81#setting12580
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:B|c3 edc|edc BAG|~A3 ~g3|eaf ged|
+~c3 edc|edc deg|age dBe|ABA A2:|
+|:f|~g3 gea|age edB|~A3 ~g3|eaa gef|
+~g3 gea|age d (3efg|age dBe|ABA A2:|
+|:B|~c3 dcd|ecA AGE|~c3 dcd|ecA A2B|cBc dcd|
+ede gab|1 age dBe|ABA A2:|2 age dBG|ABA A3||
+
+X: 3
+T: Pipe On The Hob, The
+Z: JACKB
+S: https://thesession.org/tunes/81#setting22811
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:AB|c2c edc|edc BAG|A3 g3|eaf ged|
+c2c edc|edc deg|age dBe|ABA A2:|
+|:f|g3 gea|age dBe|A3 g3|eaf gef|
+g3 gea|age de/f/g|age dBe|ABA A2:|
+|:B|c2c dB/c/d|ecA AGE|c2c dB/c/d|ecA A2B|
+cBc dB/c/d|ede gab|age dBe|ABA A2:|
+
+X: 4
+T: Pipe On The Hob, The
+Z: JACKB
+S: https://thesession.org/tunes/81#setting22812
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:EF|G2G BAG|BAG FED|E3 d3|Bec dBA|
+G2G BAG|BAG ABd|edB AFB|EFE E2:|
+|:c|d3 dBe|edB AFB|E3 d3|Bec dBc|
+d3 dBe|edB AB/c/d|edB AFB|EFE E2:|
+|:F|G2G AF/G/A|BGE EDB|G2G AF/G/A|BGE E2F|
+GFG AF/G/A|BAB def|edB AFB|EFE E2:|
+
+X: 5
+T: Pipe On The Hob, The
+Z: janglecrow
+S: https://thesession.org/tunes/81#setting26906
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:c3 edc|edc BAG|ABA g3|eaf ged|
+c3 edc|edc deg|age dBe|1 ABA A2B:|2 ABA A2f||
+|:g3 gea|age edB|ABA g3|eaf gef|
+g3 gea|age deg|age dBe|1 ABA A2f:|2 ABA A2B||
+|:c3 dcd|ecA AGE|c3 dcd|ecA A2B|
+cBc dcd|ede gab|age dBe|ABA A2B:|
+
+X: 6
+T: Pipe On The Hob, The
+Z: Eubonian
+S: https://thesession.org/tunes/81#setting33956
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|:B|c3edc|edc BAG|ABA {a}g2e|eaa ged|
+c3 edc|edc deg|age dBe|ABA A2:|
+|:^f|g3 {a}gea|age edB|ABA {a}g2 e|aba ge^f|
+g3 {a}gea|age e^fg|age dBe|ABA A2:|
+|:B|c2 c d2 d|ecA AGE|c2c d2d|ecA A2B|
+c2cd2 d|e2e ^gab|a=ge dBe|ABA A2:|
+
+X: 7
+T: Pipe On The Hob, The
+Z: Shablabar
+S: https://thesession.org/tunes/81#setting38556
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+AB|:c3 edc|edc BAG|A3 g3|eaa ged|
+c3 edc|ed^c deg|age dBe|1 A3 AAB:|2 A3 Aef||
+|:g3 geg|age dBe|A3 g3|eaa gef|
+g3 geg|age deg|age dBe|1 A3 Aef:|2 A3 A2B||
+|:c3 dcd|ecA AGE|c3 dcd|ecA A2B|
+cBc dcd|ede gab|age dBe|1 A3 A2B:|2 A3 A3||
+
+X: 8
+T: Pipe On The Hob, The
+Z: Sean Perry
+S: https://thesession.org/tunes/81#setting50920
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:B|c3 edc|edc BAG|~A3 ~g2f|eaf ged|
+~c3 edc|edc deg|age dBe|ABA A2:|
+|:f|~g3 gea|age dBG|~A3 ~g2f|eaf gef|
+~g3 gea|age deg|age dBG|ABA A2:|
+|:B|~c3 dcd|ecA AGE|~c3 dcd|ecA A2B|
+cBc dcd|ede gab|age dBG|EFG A2:|
+
